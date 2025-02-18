@@ -1,0 +1,33 @@
+> vite
+
+14:51:54 [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v6.1.0  ready in 561 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+  LARAVEL v11.42.1  plugin v1.2.0
+
+  ➜  APP_URL: http://localhost
+14:53:15 [vite] full reload routes/web.php
+14:53:18 [vite] full reload routes/web.php (x2)
+14:58:18 [vite] full reload resources/views/auth/register.blade.php
+14:58:18 [vite] (client) page reload resources/views/auth/register.blade.php
+14:58:38 [vite] full reload resources/views/auth/register.blade.php
+14:58:38 [vite] (client) page reload resources/views/auth/register.blade.php
+15:13:17 [vite] full reload routes/web.php
+15:13:26 [vite] full reload routes/web.php (x2)
+15:13:28 [vite] full reload routes/web.php (x3)
+15:13:31 [vite] full reload routes/web.php (x4)
+15:15:46 [vite] (client) page reload resources/js/alpine/alpine.js
+15:17:09 [vite] full reload resources/views/auth/register.blade.php
+15:17:09 [vite] (client) page reload resources/views/auth/register.blade.php
+15:17:16 [vite] full reload resources/views/auth/register.blade.php
+15:17:16 [vite] (client) page reload resources/views/auth/register.blade.php
+15:17:20 [vite] full reload resources/views/auth/register.blade.php
+15:17:20 [vite] (client) page reload resources/views/auth/register.blade.php
+15:17:40 [vite] full reload resources/views/auth/register.blade.php
+15:17:40 [vite] (client) page reload resources/views/auth/register.blade.php
+^C
